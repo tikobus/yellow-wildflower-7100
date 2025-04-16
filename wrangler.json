@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "yellow-wildflower-7100",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "fc291196-8740-4057-8530-da5c04626647",
+      "database_name": "fragrant-scene-e454-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
